@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    #header{
+        color: rgb(255, 157, 0);
+    }
+    .product{
+        width: 100%;
+        background-color: aqua;
+        margin-left: 0;
+        
+    }
+</style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Node Farm</h1>
+        <figure class="product">
+            <div class="product_organic">Organic</div>
+            <a href="/" class="product_back">
+                <span class="emoji-left">Back</span>
+            </a>
+            <div class="product_hero">
+                <div class="product-emoji1">{%IMAGE%}</div>
+            </div>
+            <h2 class="product_name">{%PRODUCTNAME%}</h2>
+            <div class="products_details">
+                <p><span class="emoji-left">{%FROM%}</span></p>
+                <p><span class="emoji-left">{%NUTRIENTS%}</span></p>
+                <p><span class="emoji-left">{%QUANTITY%}</span></p>
+                <p><span class="emoji-left">{%PRICE%}</span></p>
+            </div>
+            <a href="" class="product-link">
+                <span class="emoji-left"></span>
+                <span>Add to shopping cart{%PRICE%}</span>
+            </a>
+            <p class="product-description">{%DESCRIPTION%}</p>
+        </figure>
+    </div>
+</body>
+</html>

@@ -1,0 +1,93 @@
+[
+    {
+      "id": 0,
+      "productName": "Avacado",
+      "image": "🥑",
+      "from":"India",
+      "Nutrients":"vitamins C, E, K, and B6",
+      "Quantity":"4",
+      "Price":"6.50",
+      "organic":"True",
+      "Description":"The avocado is a medium-sized, evergreen tree in the laurel family. It is native to the Americas and was first domesticated in Mesoamerica more than 5,000 years ago. Then as now it was prized for its large and unusually oily fruit"
+    },
+    {
+      "id": 1,
+      "productName": "Banana",
+      "image": "🍌",
+      "from":"Spain",
+      "Nutrients":"Fiber, potassium, vitamin B6, vitamin C",
+      "Quantity":"2",
+      "Price":"1.50",
+      "organic":"False",
+      "Description":"Bananas are a healthy source of fiber, potassium, vitamin B6, vitamin C, and various antioxidants and phytonutrients. Many types and sizes exist. Their color usually ranges from green to yellow, but some varieties are red."
+    },
+    {
+      "id": 2,
+      "productName": "Fig",
+      "image": "🍏",
+      "from":"Spain",
+      "Nutrients":"Carbs,Fiber,Copper,Magnesium,Potassium,Riboflavin,Thiamine,Vitamin B6",
+      "Quantity":"4",
+      "Price":"6.50",
+      "organic":"True",
+      "Description":"The fig is the edible fruit of Ficus carica, a species of small tree in the flowering plant family Moraceae, native to the Mediterranean region, together with western and southern Asia. It has been cultivated since ancient times and is now widely grown throughout the world."
+    },
+    {
+      "id": 3,
+      "productName": "Apricot",
+      "image": "🍎",
+      "from":"Spain",
+      "Nutrients":"Fat,Sodium,Carbohydrates,Fiber,Added sugarsProtein,Vitamin C",
+      "Quantity":"4",
+      "Price":"6.50",
+      "organic":"True",
+      "Description":"Apricots are also a good source of flavonoids, an antioxidant that helps to protect against inflammation and inflammatory illnesses, along with reducing your risk for obesity, diabetes, and heart disease."
+    },
+    {
+      "id": 4,
+      "productName": "Raspberry",
+      "image": "🍐",
+      "from":"Spain",
+      "Nutrients":"Vitamin A, thiamine, riboflavin, vitamin B6, calcium and zinc ",
+      "Quantity":"4",
+      "Price":"6.50",
+      "organic":"True",
+      "Description":"The raspberry is the edible fruit of a multitude of plant species in the genus Rubus of the rose family, most of which are in the subgenus Idaeobatus. The name also applies to these plants themselves. Raspberries are perennial with woody stems"
+    },
+    {
+      "id": 5,
+      "productName": "Cranberry",
+      "image": "🍊",
+      "from":"Spain",
+      "Nutrients":"protein,fat,carbohydrates,fiber,sugars,calcium,iron",
+      "Quantity":"4",
+      "Price":"6.50",
+      "organic":"True",
+      "Description":"Cranberries are a group of evergreen dwarf shrubs or trailing vines in the subgenus Oxycoccus of the genus Vaccinium. In Britain, cranberry may refer to the native species Vaccinium oxycoccos, while in North America, cranberry may refer to Vaccinium macrocarpon."
+    },
+    {
+      "id": 6,
+      "productName": "Watercress",
+      "image": "🍋",
+      "from":"Spain",
+      "Nutrients":"vitamin A (from beta-carotene) and vitamin C, and is a source of folate, calcium, iron and vitamin E.",
+      "Quantity":"4",
+      "Price":"6.50",
+      "organic":"True",
+      "Description":"Watercress or yellowcress is a species of aquatic flowering plant in the cabbage family Brassicaceae. Watercress is a rapidly growing perennial plant native to Europe and Asia. It is one of the oldest known leaf vegetables consumed by humans"
+    }
+    ,
+    {
+      "id": 7,
+      "productName": "cantaloupe",
+      "image": "🍉",
+      "from":"Spain",
+      "Nutrients":"vitamin A (from beta-carotene) and vitamin C, and is a source of folate, calcium, iron and vitamin E. ",
+      "Quantity":"4",
+      "Price":"6.50",
+      "organic":"True",
+      "Description":"Cantaloupe is normally eaten as a fresh fruit, as a salad, or as a dessert with ice cream or custard. Melon pieces wrapped in prosciutto are a familiar antipasto. The seeds are edible and may be dried for use as a snack. ."
+    }
+    
+]
+  
